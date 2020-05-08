@@ -17,5 +17,8 @@ Left-Click buttons to perform various actions.
 
 Touch buttons to perform various actions.
 
+## WebGL Player
+https://carterleblanc.github.io/IntergalacticClicker/
+
 ## Documentation
 https://carterleblanc.github.io/IntergalacticClicker/docs/
