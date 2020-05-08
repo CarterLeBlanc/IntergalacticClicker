@@ -1,2 +1,2 @@
 # IntergalacticClicker
-carterleblanc.github.io.docs/
+https://carterleblanc.github.io/IntergalacticClicker/docs/
